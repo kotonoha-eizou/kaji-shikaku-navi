@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaji-shikaku-navi.pages.dev/sitemap.xml
