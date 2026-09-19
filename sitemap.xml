@@ -1,145 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/</loc>
-    <lastmod>2026-09-01</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/kiso</loc>
-    <lastmod>2026-09-02</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-1</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-2</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-3</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-4</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-5</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-6</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-1</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-2</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-3</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-4</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-5</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-6</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-1</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-2</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-3</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-4</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-5</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-6</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-1</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-2</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-3</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-4</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-5</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-6</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-7</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-8</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-7</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-8</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-7</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-8</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-7</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-8</loc>
-    <lastmod>2026-07-20</lastmod>
-  </url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/</loc>
+<lastmod>2026-09-19</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/kiso</loc>
+<lastmod>2026-09-02</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/kaseishi-kentei</loc>
+<lastmod>2026-09-19</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-1</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-2</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-3</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-4</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-5</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-6</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-1</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-2</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-3</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-4</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-5</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-6</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-1</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-2</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-3</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-4</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-5</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-6</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-1</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-2</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-3</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-4</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-5</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-6</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-7</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-8</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-7</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-8</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-7</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-8</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-7</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-8</loc>
+<lastmod>2026-07-20</lastmod>
+</url>
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-9</loc>
 <lastmod>2026-07-20</lastmod>
@@ -352,76 +356,76 @@
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-14</loc>
 <lastmod>2026-07-20</lastmod>
 </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-15</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-16</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-17</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-18</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-19</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-20</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-15</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-16</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-17</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-18</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-19</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-20</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-15</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-16</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-17</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-18</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-19</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
-    <url>
-          <loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-20</loc>
-          <lastmod>2026-08-08</lastmod>
-    </url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-15</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-16</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-17</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-18</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-19</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaigo-20</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-15</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-16</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-17</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-18</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-19</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-20</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-15</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-16</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-17</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-18</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-19</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kosodate-20</loc>
+<lastmod>2026-08-08</lastmod>
+</url>
 </urlset>
