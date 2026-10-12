@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/</loc>
-<lastmod>2026-09-19</lastmod>
+<lastmod>2026-10-12</lastmod>
 </url>
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/kiso</loc>
@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/</loc>
-<lastmod>2026-07-20</lastmod>
+<lastmod>2026-10-12</lastmod>
 </url>
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-1</loc>
@@ -307,6 +307,14 @@
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-43</loc>
 <lastmod>2026-09-04</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-44</loc>
+<lastmod>2026-10-12</lastmod>
+</url>
+<url>
+<loc>https://kaji-shikaku-navi.pages.dev/mondai/kihon-45</loc>
+<lastmod>2026-10-12</lastmod>
 </url>
 <url>
 <loc>https://kaji-shikaku-navi.pages.dev/mondai/kaji-11</loc>
